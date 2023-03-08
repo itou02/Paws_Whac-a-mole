@@ -11,7 +11,7 @@
 
 ## 安裝說明
 
-節瓜
+櫛瓜
 
 ## 注意事項
 
@@ -42,8 +42,9 @@ PCA9685 16路舵機控制擴展板
 
 ## 支援
 
-YuJin
+YuJin rock12365477@gmail.com
 
-Zoe
+Zoe zoe2636@kimo.com
 
-Bin
+Bin k1234988@gmail.com
+
